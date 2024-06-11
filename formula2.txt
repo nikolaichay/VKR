@@ -1,0 +1,2 @@
+Pe = (kk * X * Pr+ Y * Po) * kb * kt
+Pc = (0.45*(Pe+^3 + Pe-^3) + 0.05 * (Pen^3 + Pevn^3) )^(1/3) 
